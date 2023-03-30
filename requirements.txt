@@ -7,3 +7,6 @@ time
 azure
 google
 ComputerVisionClient
+google-api-python-client
+azure-cognitiveservices-vision-computervision
+pillow
