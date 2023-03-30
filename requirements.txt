@@ -2,3 +2,6 @@ pandas
 streamlit
 altair
 build
+Pillow
+azure
+azure-cognitiveservices-vision-computervision
