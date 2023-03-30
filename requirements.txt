@@ -4,3 +4,4 @@ altair
 build
 Pillow
 yfinance
+sys
