@@ -3,4 +3,3 @@ streamlit
 altair
 build
 Pillow
-azure-cognitiveservices-vision-computervision
