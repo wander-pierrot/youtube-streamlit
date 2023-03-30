@@ -1,2 +1,9 @@
-selenium
-webdriver-manager
+python3.9
+pandas
+streamlit
+altair
+yfinance
+time
+azure
+google
+ComputerVisionClient
