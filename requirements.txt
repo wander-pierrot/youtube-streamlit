@@ -1,12 +1,6 @@
-python3.9
 pandas
 streamlit
 altair
 yfinance
 time
-azure
-google
-ComputerVisionClient
-google-api-python-client
-azure-cognitiveservices-vision-computervision
 pillow
