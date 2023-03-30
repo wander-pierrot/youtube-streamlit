@@ -4,3 +4,4 @@ altair
 build
 Pillow
 yfinance
+azure-cognitiveservices-vision-computervision
